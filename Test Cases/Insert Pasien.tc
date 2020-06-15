@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Insert Pasien</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4bdfdec-45fe-43e5-9e81-3f54ed9c83db</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf7d4573-a35b-465a-9cfc-5d0179337613</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc6c2b35-c7eb-4d5e-953b-f9b5c931de87</id>
+      <masked>false</masked>
+      <name>medical_record_number</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>594ffdac-60f7-4b17-beed-c261a9906cf2</id>
+      <masked>false</masked>
+      <name>phone_number</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e0afed61-f005-457c-a85b-732b3fa8629e</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e9e62764-9cab-45a0-92f8-dcfadc9b6db4</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Pasien</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>9a872d2a-1fed-438b-84b0-f821e45158e3</testSuiteGuid>
+   <testCaseLink>
+      <guid>e91ce51d-df67-4a77-add4-99b1d77f5fd8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Insert Pasien</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>19eddcd8-28fb-4da0-ad9c-26807bec8437</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Tes Pasien</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>19eddcd8-28fb-4da0-ad9c-26807bec8437</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>cf7d4573-a35b-465a-9cfc-5d0179337613</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>19eddcd8-28fb-4da0-ad9c-26807bec8437</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>medical_record_number</value>
+         <variableId>bc6c2b35-c7eb-4d5e-953b-f9b5c931de87</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>19eddcd8-28fb-4da0-ad9c-26807bec8437</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>phone_number</value>
+         <variableId>594ffdac-60f7-4b17-beed-c261a9906cf2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>19eddcd8-28fb-4da0-ad9c-26807bec8437</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>date</value>
+         <variableId>e0afed61-f005-457c-a85b-732b3fa8629e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>19eddcd8-28fb-4da0-ad9c-26807bec8437</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>address</value>
+         <variableId>e9e62764-9cab-45a0-92f8-dcfadc9b6db4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
